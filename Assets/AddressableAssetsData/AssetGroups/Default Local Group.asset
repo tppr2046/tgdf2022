@@ -18,62 +18,62 @@ MonoBehaviour:
   m_GUID: 9fa4ceb29c834fb4a934b3495677adaa
   m_SerializeEntries:
   - m_GUID: 16107be10ccaf814e8646edb40664e64
-    m_Address: Assets/Auto_Addressable/ui-small-icons.png
+    m_Address: ui-small-icons
     m_ReadOnly: 0
     m_SerializedLabels:
     - icon
   - m_GUID: 86c0b56f4b32d7d4aad8f60a5adb72c2
-    m_Address: Assets/Auto_Addressable/ui-small-buttons.png
+    m_Address: ui-small-buttons
     m_ReadOnly: 0
     m_SerializedLabels:
     - icon
   - m_GUID: ef79f4e6c7ea9bc4e952c67131a6d876
-    m_Address: Assets/Auto_Addressable/apple.prefab
+    m_Address: apple
     m_ReadOnly: 0
     m_SerializedLabels:
     - 3d
   - m_GUID: a90cca62ee559bb46bbe13725a2f3480
-    m_Address: Assets/Auto_Addressable/avocado.prefab
+    m_Address: avocado
     m_ReadOnly: 0
     m_SerializedLabels:
     - 3d
   - m_GUID: 4769ff35ac4c6bc41886fa6d99098ecd
-    m_Address: Assets/Auto_Addressable/banana.prefab
+    m_Address: banana
     m_ReadOnly: 0
     m_SerializedLabels:
     - 3d
   - m_GUID: afd81e4886e50dc468c64727b758c787
-    m_Address: Assets/Auto_Addressable/cherries.prefab
+    m_Address: cherries
     m_ReadOnly: 0
     m_SerializedLabels:
     - 3d
   - m_GUID: 64596a936968da947983fb6acebf15fb
-    m_Address: Assets/Auto_Addressable/lemon.prefab
+    m_Address: lemon
     m_ReadOnly: 0
     m_SerializedLabels:
     - 3d
   - m_GUID: c511da28675e68a48ae5aecb18f64725
-    m_Address: Assets/Auto_Addressable/peach.prefab
+    m_Address: peach
     m_ReadOnly: 0
     m_SerializedLabels:
     - 3d
   - m_GUID: 6b7dea84b76dd8340806a402d291a500
-    m_Address: Assets/Auto_Addressable/peanut.prefab
+    m_Address: peanut
     m_ReadOnly: 0
     m_SerializedLabels:
     - 3d
   - m_GUID: f87b344906f47a944a928e8a06e7cd01
-    m_Address: Assets/Auto_Addressable/pear.prefab
+    m_Address: pear
     m_ReadOnly: 0
     m_SerializedLabels:
     - 3d
   - m_GUID: 55b6b8f22279e244a88da18bb228db4b
-    m_Address: Assets/Auto_Addressable/strawberry.prefab
+    m_Address: strawberry
     m_ReadOnly: 0
     m_SerializedLabels:
     - 3d
   - m_GUID: 4196fd775835c58498f8aacc5b298b31
-    m_Address: Assets/Auto_Addressable/watermelon.prefab
+    m_Address: watermelon
     m_ReadOnly: 0
     m_SerializedLabels:
     - 3d
