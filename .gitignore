@@ -9,8 +9,8 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
-/[As]ssets/BansheeGz/
-/[As]ssets/PlayMaker/
+/[Aa]ssets/BansheeGz/
+/[Aa]ssets/PlayMaker/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
