@@ -355,16 +355,16 @@ MonoBehaviour:
     dataVersion: 2
     usedInTemplate: {fileID: 0}
     name: FSM
-    startState: load locations
+    startState: load addressable locations
     states:
-    - name: load addressable locations
+    - name: asset count
       description: 
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 114
-        y: 164
-        width: 191.33333
+        x: 82
+        y: 153
+        width: 102.666664
         height: 32
       isBreakpoint: 0
       isSequence: 0
@@ -447,8 +447,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 79.66406
-        y: 228.66406
+        x: 63.664062
+        y: 212.66406
         width: 209.33333
         height: 48
       isBreakpoint: 0
@@ -590,8 +590,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 402.66406
-        y: 232.66406
+        x: 351.66406
+        y: 217.66406
         width: 100
         height: 32
       isBreakpoint: 0
@@ -671,8 +671,8 @@ MonoBehaviour:
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 52.664062
-        y: 321.66406
+        x: 69.66406
+        y: 298.66406
         width: 140.66666
         height: 16
       isBreakpoint: 0
@@ -718,14 +718,14 @@ MonoBehaviour:
         paramName: []
         paramDataPos: 
         paramByteDataSize: 
-    - name: load locations
+    - name: load addressable locations
       description: 
       colorIndex: 0
       position:
         serializedVersion: 2
-        x: 132.66406
-        y: 104.66406
-        width: 115.333336
+        x: 84.66406
+        y: 98.66406
+        width: 195.33333
         height: 32
       isBreakpoint: 0
       isSequence: 0
@@ -735,7 +735,7 @@ MonoBehaviour:
           name: FINISHED
           isSystemEvent: 1
           isGlobal: 0
-        toState: load addressable locations
+        toState: asset count
         linkStyle: 0
         linkConstraint: 0
         linkTarget: 0
